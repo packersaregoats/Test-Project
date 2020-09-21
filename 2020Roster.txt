@@ -1144,7 +1144,7 @@ WR,Marvin Jones Jr,28,2012,85,85,85,83,82,77,6.0,1
 WR,Danny Amendola,26,2014,76,78,77,85,79,77,0.4,1
 WR,Victor Bolden Jr,22,2018,72,67,80,73,75,73,0.6,3
 END_PLAYERS
-Washington Redskins, WAS
+Washington Football Team, WAS
 CB,Kendall Fuller,23,2016,92,78,88,88,87,86,0.8,4
 CB,Ronald Darby,24,2015,85,81,87,82,87,82,1.1,4
 CB,Greg Stroman,22,2018,68,61,91,54,90,61,0.6,4
