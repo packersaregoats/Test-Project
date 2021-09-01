@@ -762,7 +762,6 @@ WR,Demarcus Robinson,24,2016,80,76,80,77,78,80,0.7,4
 WR,Sammy Watkins,25,2014,82,78,84,80,82,83,6.0,1
 END_PLAYERS
 Denver Broncos, DEN
-CB,Isaac Yiadom,22,2018,70,67,92,77,90,71,0.8,4
 CB,Michael Ojemudia,21,2020,78,77,75,73,76,78,1.0,4
 CB,Bryce Callahan,27,2015,80,80,87,76,84,75,1.9,2
 CB,De'Vante Bausby,25,2017,72,69,77,81,77,64,3.0,1
@@ -982,10 +981,11 @@ WR,Javon Wims,24,2018,73,67,69,76,78,74,0.6,4
 END_PLAYERS
 Green Bay Packers, GB
 CB,Jaire Alexander,23,2018,99,86,95,89,90,89,3.0,2
-CB,Josh Jackson,24,2018,75,65,72,75,74,68,1.6,1
+CB,Isaac Yiadom,22,2018,70,67,92,77,90,71,0.8,1
 CB,Chandon Sullivan,24,2017,79,75,74,77,75,76,0.5,1
-CB,Ka'Dar Hollman,26,2018,75,65,63,68,72,73,0.5,2
+CB,Eric Stokes,22,2021,85,86,90,71,95,70,5.8,5
 CB,Kevin King,25,2017,87,79,88,84,83,83,1.8,1
+CB,Shemar Jean-Charles,23,2021,75,85,90,65,88,65,3.4,4
 S,Will Redmond,26,2016,74,69,78,73,71,72,0.5,1
 S,Adrian Amos,27,2015,90,87,88,88,90,87,6.6,2
 S,Vernon Scott,23,2020,74,70,68,66,67,70,1.0,3
@@ -1310,6 +1310,7 @@ WR,DeSean Jackson,32,2008,82,80,83,81,80,82,5.2,3
 END_PLAYERS
 New York Giants, NYG
 CB,Corey Ballentine,25,2016,63,50,70,73,77,60,0.5,3
+CB,Josh Jackson,24,2018,75,65,72,75,74,68,1.6,1
 CB,James Bradberry,25,2016,94,85,88,88,91,88,10.0,4
 CB,Darnay Holmes,21,2020,73,70,72,70,72,70,1.0,3
 CB,Rashaan Gaulden,22,2018,68,55,88,69,87,67,0.7,4
